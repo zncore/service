@@ -1,5 +1,5 @@
 {
-  "name": "zncore/",
+  "name": "zncore/service",
   "type": "extension",
   "license": "MIT",
   "authors": [
@@ -14,8 +14,8 @@
   },
   "autoload": {
     "psr-4": {
-      "ZnCore\\\\": "src",
-      "ZnCore\\\\Tests\\": "tests"
+      "ZnCore\\Service\\": "src",
+      "ZnCore\\Service\\Tests\\": "tests"
     }
   }
 }
