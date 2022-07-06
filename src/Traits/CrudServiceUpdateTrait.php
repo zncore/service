@@ -2,7 +2,7 @@
 
 namespace ZnCore\Service\Traits;
 
-use ZnCore\Domain\Domain\Enums\EventEnum;
+use ZnCore\Domain\Enums\EventEnum;
 use ZnCore\Entity\Helpers\EntityHelper;
 
 trait CrudServiceUpdateTrait
