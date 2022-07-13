@@ -2,9 +2,9 @@
 
 namespace ZnCore\Service\Base;
 
-use ZnCore\EventDispatcher\Traits\EventDispatcherTrait;
 use ZnCore\Domain\Interfaces\GetEntityClassInterface;
 use ZnCore\EntityManager\Traits\EntityManagerAwareTrait;
+use ZnCore\EventDispatcher\Traits\EventDispatcherTrait;
 use ZnCore\Repository\Traits\RepositoryAwareTrait;
 use ZnCore\Service\Interfaces\CreateEntityInterface;
 

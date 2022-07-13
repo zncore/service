@@ -2,9 +2,9 @@
 
 namespace ZnCore\Service\Traits;
 
-use ZnCore\Validation\Helpers\ValidationHelper;
 use ZnCore\Domain\Enums\EventEnum;
 use ZnCore\Entity\Interfaces\EntityIdInterface;
+use ZnCore\Validation\Helpers\ValidationHelper;
 
 trait CrudServiceCreateTrait
 {
